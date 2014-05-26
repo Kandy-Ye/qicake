@@ -1,0 +1,229 @@
+2013-09-10 15:06:45 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 15:07:13 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 15:07:20 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 15:13:35 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 15:37:47 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compounds_images/130910153747.jpg
+2013-09-10 15:37:47 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 53]
+2013-09-10 15:38:16 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910153816.jpg
+2013-09-10 15:38:16 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 53]
+2013-09-10 15:39:38 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910153938.jpg
+2013-09-10 15:39:38 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 53]
+2013-09-10 16:11:29 Notice: Notice (8): Undefined index: city_id in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 132]
+2013-09-10 16:11:29 Notice: Notice (8): Undefined index: city_id in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 133]
+2013-09-10 16:11:29 Notice: Notice (8): Undefined index: Serviced-Apartment in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 136]
+2013-09-10 16:12:08 Notice: Notice (8): Undefined index: city_id in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 132]
+2013-09-10 16:12:08 Notice: Notice (8): Undefined index: city_id in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 133]
+2013-09-10 16:12:08 Notice: Notice (8): Undefined index: Serviced-Apartment in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 136]
+2013-09-10 16:16:29 Notice: Notice (8): Undefined property: Compound::$City in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 84]
+2013-09-10 16:27:42 Notice: Notice (8): Undefined index: city_id in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 133]
+2013-09-10 17:36:44 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 17:44:21 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 17:45:12 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 96]
+2013-09-10 17:54:56 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910175456.jpg
+2013-09-10 17:55:24 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 17:57:25 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 17:57:27 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 96]
+2013-09-10 17:57:40 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 17:59:08 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 17:59:30 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 18:00:59 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 18:01:13 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-10 18:01:19 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 96]
+2013-09-10 18:51:57 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910185157.jpg
+2013-09-10 18:52:25 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-10 18:52:25 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910185225.jpg
+2013-09-10 18:52:44 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-10 18:52:44 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910185244.jpg
+2013-09-10 18:53:10 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-10 18:53:10 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910185310.jpg
+2013-09-10 18:53:28 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-10 18:53:28 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910185328.jpg
+2013-09-10 18:56:22 Notice: Notice (8): Use of undefined constant is_big - assumed 'is_big' in [/home/vincent/workspace/zufang/app/views/compound_images/admin_add.ctp, line 11]
+2013-09-10 18:58:18 Notice: Notice (8): Undefined index: Serviced-Apartment in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 133]
+2013-09-10 18:59:45 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 18:59:45 Notice: Notice (8): Undefined variable: image in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 90]
+2013-09-10 18:59:45 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 105]
+2013-09-10 18:59:45 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:00:14 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:00:14 Notice: Notice (8): Undefined variable: image in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 90]
+2013-09-10 19:00:14 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 105]
+2013-09-10 19:00:14 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:00:22 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:00:22 Notice: Notice (8): Undefined index: name in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-10 19:00:22 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 105]
+2013-09-10 19:00:22 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:09:04 Notice: Notice (8): Undefined variable: is_big in [/home/vincent/workspace/zufang/app/views/property_images/admin_add.ctp, line 12]
+2013-09-10 19:13:15 Notice: Notice (8): Undefined index: city_id in [/home/vincent/workspace/zufang/app/controllers/compounds_controller.php, line 133]
+2013-09-10 19:14:15 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-10 19:14:15 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910191415.jpg
+2013-09-10 19:14:27 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-10 19:14:27 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130910191427.jpg
+2013-09-10 19:17:36 Notice: Notice (8): Undefined index: facility in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 81]
+2013-09-10 19:17:40 Notice: Notice (8): Undefined index: facility in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 81]
+2013-09-10 19:20:15 Notice: Notice (8): Undefined index: facility in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 81]
+2013-09-10 19:20:39 Notice: Notice (8): Undefined index: facility in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 81]
+2013-09-10 19:22:20 Notice: Notice (8): Undefined variable: compoundImage in [/home/vincent/workspace/zufang/app/views/property_images/admin_view.ctp, line 30]
+2013-09-10 19:30:07 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 129]
+2013-09-10 19:30:07 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 130]
+2013-09-10 19:32:13 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-10 19:32:13 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130910193213.jpg
+2013-09-10 19:33:23 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-10 19:33:23 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130910193323.jpg
+2013-09-10 19:36:35 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-10 19:36:35 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130910193635.jpg
+2013-09-10 19:37:02 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-10 19:37:02 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130910193702.jpg
+2013-09-10 19:37:22 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-10 19:37:22 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130910193722.jpg
+2013-09-10 19:41:51 Notice: Notice (8): Undefined index: id in [/home/vincent/workspace/zufang/app/views/compounds/view.ctp, line 44]
+2013-09-10 19:42:51 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:42:51 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 105]
+2013-09-10 19:42:51 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:42:51 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 13]
+2013-09-10 19:43:38 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 105]
+2013-09-11 13:12:03 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:13:07 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:13:09 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:13:57 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:14:44 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:15:02 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:15:03 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:15:32 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/index.ctp, line 85]
+2013-09-11 13:33:12 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 128]
+2013-09-11 13:33:12 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 129]
+2013-09-11 13:33:32 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 13:33:32 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911133332.jpg
+2013-09-11 13:33:52 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 13:33:52 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911133352.jpg
+2013-09-11 13:36:38 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 128]
+2013-09-11 13:36:38 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 129]
+2013-09-11 13:36:52 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 13:36:52 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911133652.jpg
+2013-09-11 13:37:12 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 13:37:12 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911133712.jpg
+2013-09-11 13:38:14 Notice: Notice (8): Undefined index: name in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-11 13:39:01 Notice: Notice (8): Undefined index: name in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-11 13:39:34 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-11 13:40:47 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-11 13:40:59 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-11 13:41:02 Notice: Notice (8): Undefined index: Area in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 53]
+2013-09-11 14:03:08 Notice: Notice (8): Undefined index: features in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 67]
+2013-09-11 15:01:34 Notice: Notice (8): Undefined offset: 2 in [/home/vincent/workspace/zufang/cake/libs/model/model.php, line 2194]
+2013-09-11 15:01:34 Notice: Notice (8): Undefined offset: 2 in [/home/vincent/workspace/zufang/cake/libs/model/model.php, line 2195]
+2013-09-11 15:01:46 Notice: Notice (8): Undefined offset: 2 in [/home/vincent/workspace/zufang/cake/libs/model/model.php, line 2194]
+2013-09-11 15:01:46 Notice: Notice (8): Undefined offset: 2 in [/home/vincent/workspace/zufang/cake/libs/model/model.php, line 2195]
+2013-09-11 15:14:23 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-11 15:14:46 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 15:14:46 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911151446.jpg
+2013-09-11 15:15:39 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 15:15:39 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911151539.jpg
+2013-09-11 15:15:50 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 15:15:50 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911151550.jpg
+2013-09-11 15:16:03 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 15:16:03 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911151603.jpg
+2013-09-11 15:18:24 Notice: Notice (8): Undefined property: PropertiesController::$Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 84]
+2013-09-11 15:18:24 Notice: Notice (8): Trying to get property of non-object in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 84]
+2013-09-11 15:18:41 Notice: Notice (8): Undefined property: PropertiesController::$Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 84]
+2013-09-11 15:18:41 Notice: Notice (8): Trying to get property of non-object in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 84]
+2013-09-11 15:19:09 Notice: Notice (8): Undefined property: Property::$District in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 84]
+2013-09-11 15:19:30 Notice: Notice (8): Undefined property: Property::$District in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 84]
+2013-09-11 15:32:24 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 132]
+2013-09-11 15:32:24 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 133]
+2013-09-11 15:33:00 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:33:00 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911153300.jpg
+2013-09-11 15:33:14 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:33:14 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911153314.jpg
+2013-09-11 15:33:26 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:33:26 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911153326.jpg
+2013-09-11 15:37:23 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 132]
+2013-09-11 15:37:23 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 133]
+2013-09-11 15:55:36 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 132]
+2013-09-11 15:55:36 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 133]
+2013-09-11 15:56:31 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:56:31 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911155631.jpg
+2013-09-11 15:56:48 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:56:49 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911155649.jpg
+2013-09-11 15:57:03 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:57:03 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911155703.jpg
+2013-09-11 15:57:17 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 15:57:17 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911155717.jpg
+2013-09-11 15:57:40 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 7]
+2013-09-11 15:58:28 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 7]
+2013-09-11 15:58:58 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 108]
+2013-09-11 16:05:20 Notice: Notice (8): Undefined index: Parent in [/home/vincent/workspace/zufang/app/controllers/areas_controller.php, line 33]
+2013-09-11 16:05:20 Notice: Notice (8): Undefined index: layer in [/home/vincent/workspace/zufang/app/controllers/areas_controller.php, line 44]
+2013-09-11 16:07:58 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 108]
+2013-09-11 16:08:40 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 108]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 8]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 9]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 10]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 11]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 18]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 19]
+2013-09-11 16:11:50 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 20]
+2013-09-11 16:12:58 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_edit.ctp, line 19]
+2013-09-11 16:17:37 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:17:37 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911161737.jpg
+2013-09-11 16:23:11 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 16:23:11 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911162311.jpg
+2013-09-11 16:23:26 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 16:23:26 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911162326.jpg
+2013-09-11 16:23:47 Notice: Notice (8): Undefined index: compound_id in [/home/vincent/workspace/zufang/app/controllers/compound_images_controller.php, line 24]
+2013-09-11 16:23:47 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/compound_images/130911162347.jpg
+2013-09-11 16:26:24 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 131]
+2013-09-11 16:26:24 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 132]
+2013-09-11 16:27:48 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:27:49 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911162749.jpg
+2013-09-11 16:28:03 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:28:04 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911162804.jpg
+2013-09-11 16:28:14 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:28:14 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911162814.jpg
+2013-09-11 16:28:26 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:28:26 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911162826.jpg
+2013-09-11 16:28:37 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:28:37 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911162837.jpg
+2013-09-11 16:32:05 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 131]
+2013-09-11 16:32:05 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 132]
+2013-09-11 16:39:14 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:39:14 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911163914.jpg
+2013-09-11 16:52:00 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 152]
+2013-09-11 16:52:00 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 153]
+2013-09-11 16:52:30 Notice: Notice (8): Undefined index: Property in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 93]
+2013-09-11 16:56:57 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-11 16:57:05 Notice: Notice (8): Undefined index: Property in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 93]
+2013-09-11 16:57:18 Notice: Notice (8): Undefined index: Property in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 93]
+2013-09-11 16:59:58 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 16:59:58 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911165958.jpg
+2013-09-11 17:00:11 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 17:00:11 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911170011.jpg
+2013-09-11 17:00:32 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 17:00:32 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911170032.jpg
+2013-09-11 17:02:55 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_view.ctp, line 16]
+2013-09-11 17:02:55 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_view.ctp, line 21]
+2013-09-11 17:03:01 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_view.ctp, line 16]
+2013-09-11 17:03:01 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_view.ctp, line 21]
+2013-09-11 17:03:05 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_view.ctp, line 16]
+2013-09-11 17:03:05 Notice: Notice (8): Undefined variable: compound in [/home/vincent/workspace/zufang/app/views/properties/admin_view.ctp, line 21]
+2013-09-11 17:06:54 Notice: Notice (8): Undefined index: Property in [/home/vincent/workspace/zufang/app/views/properties/view.ctp, line 107]
+2013-09-11 17:18:10 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 152]
+2013-09-11 17:18:10 Notice: Notice (8): Undefined index: Compound in [/home/vincent/workspace/zufang/app/controllers/properties_controller.php, line 153]
+2013-09-11 17:18:45 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 17:18:45 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911171845.jpg
+2013-09-11 17:18:57 Notice: Notice (8): Undefined index: property_id in [/home/vincent/workspace/zufang/app/controllers/property_images_controller.php, line 26]
+2013-09-11 17:18:57 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/property_images/130911171857.jpg
+2013-09-11 17:27:04 Notice: Notice (8): Uninitialized string offset: 0 in [/home/vincent/workspace/zufang/cake/libs/view/helpers/html.php, line 608]
+2013-09-11 17:30:32 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/school_images/130911173032.png
+2013-09-11 17:33:58 Notice: Notice (8): Undefined property: SchoolsController::$Property in [/home/vincent/workspace/zufang/app/controllers/schools_controller.php, line 130]
+2013-09-11 17:33:58 Notice: Notice (8): Trying to get property of non-object in [/home/vincent/workspace/zufang/app/controllers/schools_controller.php, line 130]
+2013-09-11 17:56:59 Debug: File has been saved as:/home/vincent/workspace/zufang/app/webroot/img/uploads/school_images/130911175659.png
+2013-09-11 17:57:47 Notice: Notice (8): Undefined index: short_desc in [/home/vincent/workspace/zufang/app/views/compounds/admin_view.ctp, line 233]
+2013-09-11 17:57:47 Notice: Notice (8): Undefined index: desc in [/home/vincent/workspace/zufang/app/views/compounds/admin_view.ctp, line 234]
+2013-09-12 01:25:52 Notice: Notice (8): Use of undefined constant BOOTSTRAP - assumed 'BOOTSTRAP' in [/home/vincent/workspace/qicake/views/elements/js.ctp, line 4]
+2013-09-12 01:26:04 Notice: Notice (8): Undefined variable: css in [/home/vincent/workspace/qicake/views/elements/css.ctp, line 2]
+2013-09-12 01:26:32 Notice: Notice (8): Undefined variable: css in [/home/vincent/workspace/qicake/views/elements/css.ctp, line 2]
+2013-09-12 01:28:30 Notice: Notice (8): Undefined variable: css in [/home/vincent/workspace/qicake/views/elements/css.ctp, line 2]
+2013-09-12 03:12:43 Notice: Notice (8): Undefined variable: user in [/home/vincent/workspace/qicake/controllers/users_controller.php, line 49]
+2013-09-12 03:13:07 Notice: Notice (8): Undefined variable: user in [/home/vincent/workspace/qicake/controllers/users_controller.php, line 49]
+2013-09-12 03:13:13 Notice: Notice (8): Undefined variable: user in [/home/vincent/workspace/qicake/controllers/users_controller.php, line 49]
+2013-09-12 03:13:28 Notice: Notice (8): Undefined offset: 18 in [/home/vincent/workspace/qicake/controllers/users_controller.php, line 49]
+2013-09-12 03:13:45 Notice: Notice (8): Undefined offset: 18 in [/home/vincent/workspace/qicake/controllers/users_controller.php, line 49]
